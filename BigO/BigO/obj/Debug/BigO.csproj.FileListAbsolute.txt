@@ -1,0 +1,7 @@
+A:\GitHub\BigO\BigO\bin\Debug\BigO.exe.config
+A:\GitHub\BigO\BigO\bin\Debug\BigO.exe
+A:\GitHub\BigO\BigO\bin\Debug\BigO.pdb
+A:\GitHub\BigO\BigO\obj\Debug\BigO.csprojAssemblyReference.cache
+A:\GitHub\BigO\BigO\obj\Debug\BigO.csproj.CoreCompileInputs.cache
+A:\GitHub\BigO\BigO\obj\Debug\BigO.exe
+A:\GitHub\BigO\BigO\obj\Debug\BigO.pdb
